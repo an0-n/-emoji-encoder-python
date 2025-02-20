@@ -14,4 +14,4 @@ You don't need to specify the cover text for decoding, the algorithm will automa
 Platform: Windows
 The pandas package is used to read and write the clipboard. If your Python environment does not have pandas, use pip install pandas to install it.
 # more
-If you think the ciphertext is not hidden enough, you may consider using RSA or other algorithms to encrypt in advance, and then use this encoder to disguise it. Have fun
+If you think the ciphertext is not hidden enough, you may consider using RSA or other algorithms to encrypt in advance, and then use this encoder to disguise it. Like here ---> https://github.com/KuroLabs/stegcloak
