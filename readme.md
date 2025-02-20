@@ -1,3 +1,5 @@
+credits to https://github.com/weikangzhao/unicode_disguise
+
 # unicode disguise
 A codec that can hide ciphertext under cover of disguise, so what you see may not be what you get.
 The principle comes from [https://github.com/paulgb/emoji-encoder](https://github.com/paulgb/emoji-encoder)
